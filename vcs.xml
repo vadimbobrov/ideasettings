@@ -6,6 +6,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="leporelo" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.soma.salesforce.com" />
+          <option name="userName" value="vbobrov" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
