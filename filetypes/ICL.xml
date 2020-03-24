@@ -6,11 +6,14 @@
       <option name="COMMENT_END" value="" />
       <option name="HEX_PREFIX" value="" />
       <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
       <option name="LINE_COMMENT_AT_START" value="true" />
     </options>
-    <keywords keywords="config;mode;parallel;patch" ignore_case="true" />
-    <keywords2 keywords="maintenance;max" />
-    <keywords3 />
+    <keywords keywords="abort;allow;blade;blades;config;deny;dry;empty;explain;force;group;hours;ignore;jobs;kill;leg;minutes;mode;parallel;patch;pod;power;reserve;run;set;stop;tier;time;update;use" ignore_case="true" />
+    <keywords2 keywords="app;available;db;disrupt;kaput;locked;maintenance;max;normal;reserved;sec;util;web" />
+    <keywords3 keywords="after;all;and;any;before;in;is;not;or" />
     <keywords4 />
   </highlighting>
   <extensionMap>
