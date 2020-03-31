@@ -13,7 +13,6 @@
     <keywords keywords="abort;allow;blade;blades;config;deny;dry;empty;explain;force;group;hours;ignore;jobs;kill;leg;minutes;mode;parallel;patch;pod;power;reserve;run;set;stop;tier;time;update;use" ignore_case="true" />
     <keywords2 keywords="app;available;db;disrupt;kaput;locked;maintenance;max;normal;reserved;sec;util;web" />
     <keywords3 keywords="after;all;and;any;before;in;is;not;or" />
-    <keywords4 />
   </highlighting>
   <extensionMap>
     <mapping ext="icl" />
