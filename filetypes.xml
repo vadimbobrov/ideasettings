@@ -5,6 +5,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping pattern="v" type="PLAIN_TEXT" />
+      <mapping pattern="dr" type="PLAIN_TEXT" />
       <mapping ext="dmp" type="PLAIN_TEXT" />
       <mapping ext="wlbl" type="PLAIN_TEXT" />
       <mapping ext="secret" type="PLAIN_TEXT" />
