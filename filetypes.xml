@@ -9,9 +9,9 @@
       <mapping ext="dmp" type="PLAIN_TEXT" />
       <mapping ext="wlbl" type="PLAIN_TEXT" />
       <mapping ext="secret" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="valida" type="Python" />
       <mapping pattern="restart_framework" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
