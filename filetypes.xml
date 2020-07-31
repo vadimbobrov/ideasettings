@@ -3,17 +3,17 @@
     <extensionMap>
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="aa" type="PLAIN_TEXT" />
-      <mapping pattern="v" type="PLAIN_TEXT" />
       <mapping pattern="dr" type="PLAIN_TEXT" />
+      <mapping pattern="v" type="PLAIN_TEXT" />
       <mapping pattern="testlogfile" type="PLAIN_TEXT" />
-      <mapping ext="greenfoot" type="PLAIN_TEXT" />
-      <mapping ext="dmp" type="PLAIN_TEXT" />
-      <mapping ext="wlbl" type="PLAIN_TEXT" />
+      <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping ext="secret" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="wlbl" type="PLAIN_TEXT" />
+      <mapping ext="dmp" type="PLAIN_TEXT" />
+      <mapping ext="greenfoot" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="valida" type="Python" />
       <mapping pattern="restart_framework" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
