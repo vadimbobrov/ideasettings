@@ -1,31 +1,29 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="dr" type="PLAIN_TEXT" />
       <mapping pattern="daf4f946-969f-4d3a-b990-bc05e0918f30" type="PLAIN_TEXT" />
-      <mapping pattern="v" type="PLAIN_TEXT" />
-      <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping pattern="coord" type="PLAIN_TEXT" />
+      <mapping pattern="v" type="PLAIN_TEXT" />
       <mapping pattern="testlogfile" type="PLAIN_TEXT" />
+      <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping ext="secret" type="PLAIN_TEXT" />
       <mapping ext="wlbl" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="dmp" type="PLAIN_TEXT" />
       <mapping ext="greenfoot" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="valida" type="Python" />
       <mapping pattern="restart_framework" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="Dockerfile*" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="Dockerfile*" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
