@@ -9,7 +9,6 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="dr" type="PLAIN_TEXT" />
       <mapping pattern="daf4f946-969f-4d3a-b990-bc05e0918f30" type="PLAIN_TEXT" />
-      <mapping pattern="coord" type="PLAIN_TEXT" />
       <mapping pattern="v" type="PLAIN_TEXT" />
       <mapping pattern="testlogfile" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
